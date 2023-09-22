@@ -2,14 +2,13 @@ import firebase from "firebase/compat/app";
 import "firebase/compat/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAp58WDEcIISDfSCPvwmJJpb-nJYKN0n3U",
-  authDomain: "human-resource-managemen-ffb61.firebaseapp.com",
-  databaseURL: "https://human-resource-managemen-ffb61-default-rtdb.asia-southeast1.firebasedatabase.app",
-  projectId: "human-resource-managemen-ffb61",
-  storageBucket: "human-resource-managemen-ffb61.appspot.com",
-  messagingSenderId: "368495074470",
-  appId: "1:368495074470:web:b353e03960029e2cf82867",
-  measurementId: "G-4D4CR8MF1B"
+  apiKey: "AIzaSyCO-lFQi0qtNYRsDVNv_pnqIO7gLnFerQc",
+  authDomain: "web-demo-3c099.firebaseapp.com",
+  projectId: "web-demo-3c099",
+  storageBucket: "web-demo-3c099.appspot.com",
+  messagingSenderId: "667551600453",
+  appId: "1:667551600453:web:d5a8c05d75b290cb25f82c",
+  measurementId: "G-7LZRZ1F13H"
 };
 
 if (!firebase.app.lenth) {
