@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "public": "dist",
+    "site": "react-app-demo11",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
